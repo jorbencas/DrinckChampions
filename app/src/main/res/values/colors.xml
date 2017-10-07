@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#ffffff</color>
+
+    <color name="primaryDarkColor">#323232</color>
+    <color name="primaryColor">#1E8033</color>
+    <color name="accentColor">#F87652</color>
+
+    <color name="background_footer_item_grid_categorias">#29C14A</color>
+
+    <color name="color_light">#ffffff</color>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="background_header_seccion_inicio">#1E8033</color>
+    <color name="colorAccent">#009688</color>
+    <color name="listcolor">#94A65D</color>
+    <color name="black">#000000</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="colorbutton">#039BE5</color>
+
+</resources>

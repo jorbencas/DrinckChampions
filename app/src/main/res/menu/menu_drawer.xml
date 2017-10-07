@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_inicio"
+            android:checked="true"
+            android:icon="@drawable/inicio"
+            android:title="@string/item_inicio" />
+        <item
+            android:id="@+id/item_cuenta"
+            android:icon="@drawable/cuenta"
+            android:title="@string/item_cuenta" />
+        <item
+            android:id="@+id/item_categorias"
+            android:icon="@drawable/categorias"
+            android:title="@string/item_categorias" />
+        <item
+            android:id="@+id/item_configuracion"
+            android:icon="@drawable/configuracion"
+            android:title="@string/item_configuracion" />
+
+        <item
+            android:id="@+id/item_search"
+            android:icon="@drawable/search"
+            android:title="@string/item_search" />
+        <item
+            android:id="@+id/item_location"
+            android:icon="@drawable/location"
+            android:title="@string/item_location" />
+        <item
+            android:id="@+id/item_favorito"
+            android:icon="@drawable/ic_wish_full"
+            android:title="@string/item_favorito" />
+
+
+
+        <item
+            android:id="@+id/item_registro"
+            android:icon="@drawable/estrella"
+            android:title="@string/item_registro" />
+
+
+        <item
+            android:id="@+id/social_networks"
+            android:icon="@drawable/unnamed"
+            android:title="@string/Twitter" />
+
+        <item android:title="@string/menu_lang">
+            <menu>
+                <item
+                    android:id="@+id/en"
+                    android:title="English"/>
+                <item
+                    android:id="@+id/es"
+                    android:title="Spanish"/>
+                <item
+                    android:id="@+id/va"
+                    android:title="Valencia"/>
+            </menu>
+        </item>
+
+
+    </group>
+
+</menu>

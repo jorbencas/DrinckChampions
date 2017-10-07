@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">"DrinkChampions"</string>
+
+    <string name="action_settings">Configuracció</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_carrito">Añadir al carrito</string>
+
+    <string name="item_inicio">Inici</string>
+    <string name="item_cuenta">El meu compte</string>
+    <string name="item_categorias">Categoríes</string>
+    <string name="item_configuracion">Configuracció</string>
+    <string name="item_search">Busqueda</string>
+    <string name="item_location">Localitzacció</string>
+    <string name="item_contact">Contacte</string>
+    <string name="item_contact1">\nDenominació de l\'Empresa\n</string>
+    <string name="item_contact2">Contacte de l\'empresa\n\n</string>
+    <string name="item_sqllite">SQLlite</string>
+    <string name="menu_lang">Idioma</string>
+    <string name="titulo_actividad_contact">Contacte</string>
+    <string name="titulo_comidas_populares">El mes demanat</string>
+
+    <string name="titulo_tab_platillos">NACIONALS</string>
+    <string name="titulo_tab_bebidas">TOSTADES</string>
+    <string name="titulo_tab_postres">UNIVERSALS</string>
+
+    <string name="hello">Hello World, TareasSQLiteActivity!</string>
+    <string name="menu_insert">Afegir tares</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="todo_summary">Nom</string>
+    <string name="todo_description">Borrar</string>
+    <string name="todo_edit_summary">Nom</string>
+    <string name="todo_edit_description">Descripcció</string>
+    <string name="todo_edit_confirm">Aceptar</string>
+    <string name="no_todos">Encara no existeixen elements en la llista.</string>
+    <string name="social_networks">Xarxes socials</string>
+
+    <string name="texto_no_tarjetas">No tiens ninguna tarjeta asociada</string>
+
+
+    <string name="texto_cambiar_contrasena">Cambia la teua contrasenya</string>
+    <string name="etiqueta_contrasena">Contrasenya</string>
+    <string name="etiqueta_info_usuario">Informacció del usuari</string>
+    <string name="main.message.addelement">Agregar un element nou</string>
+    <string name="item_firebase">Firebase</string>
+    <string name="item_favorito">Favorits</string>
+    <string name="item_registro">Registre</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="item_registrog">Registre</string>
+</resources>

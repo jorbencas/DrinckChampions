@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "428767611376",
+    "firebase_url": "https://drinkchampions-c2df8.firebaseio.com",
+    "project_id": "drinkchampions-c2df8",
+    "storage_bucket": "drinkchampions-c2df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428767611376:android:2b50f364c420cf45",
+        "android_client_info": {
+          "package_name": "com.herprogramacion.restaurantericoparico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428767611376-erb3m32586u328kcd93s1a7ulb310trc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herprogramacion.restaurantericoparico",
+            "certificate_hash": "ca3ec9a7a5286a27e09175573cb00e432761ab94"
+          }
+        },
+        {
+          "client_id": "428767611376-8f6eoermlvnsj9iv1o49qvecpesr86qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herprogramacion.restaurantericoparico",
+            "certificate_hash": "1f6257ed37e3e2576544d5368affdf9f201b6151"
+          }
+        },
+        {
+          "client_id": "428767611376-mcq9h0dl41co6mtd3kon08ett4i4dmmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR01Jjbvq2hdZ7Q2p5gALxDJ-UZwkbxIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428767611376-mcq9h0dl41co6mtd3kon08ett4i4dmmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

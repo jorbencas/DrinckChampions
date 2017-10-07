@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">"DrinkChampions"</string>
+
+    <string name="action_settings">Configuration</string>
+    <string name="action_search">Search</string>
+    <string name="action_carrito">Add to car</string>
+
+    <string name="item_inicio">Start</string>
+    <string name="item_cuenta">Miy Account</string>
+    <string name="item_categorias">Categoríes</string>
+    <string name="item_configuracion">Configuration</string>
+    <string name="item_search">search</string>
+    <string name="item_location">Location</string>
+    <string name="item_contact">Contact</string>
+    <string name="item_contact1">\nDenominatión of the business</string>
+    <string name="item_contact2">Contact of the business\n\n</string>
+    <string name="item_sqllite">SQLlite</string>
+    <string name="menu_lang">Languajes</string>
+    <string name="titulo_actividad_contact">Contact</string>
+    <string name="titulo_comidas_populares">The most sall</string>
+
+    <string name="titulo_tab_platillos">NATIONALS</string>
+    <string name="titulo_tab_bebidas">TOSTS</string>
+    <string name="titulo_tab_postres">UNIVERSALS</string>
+
+    <string name="hello">Hello World, TareasSQLiteActivity!</string>
+    <string name="menu_insert">Add Tasqs</string>
+    <string name="menu_delete">Delete</string>
+    <string name="todo_summary">Name</string>
+    <string name="todo_description">Delete</string>
+    <string name="todo_edit_summary">Name</string>
+    <string name="todo_edit_description">Descriptión</string>
+    <string name="todo_edit_confirm">Acept</string>
+    <string name="no_todos">At the moment there isn`t any element in the list</string>
+    <string name="label_twitter">Twitter Authentication</string>
+    <string name="social_networks">Social Networkss</string>
+    <string name="desc_twitter">Use a twitter account to authenticate with Firebase.</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="texto_no_tarjetas">You dont have any target asdociated</string>
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+
+    <string name="texto_cambiar_contrasena">Change your password</string>
+    <string name="etiqueta_contrasena">password</string>
+    <string name="etiqueta_info_usuario">Information of the user</string>
+    <string name="main.message.addelement">Add a new element</string>
+    <string name="item_firebase">Firebase</string>
+    <string name="item_favorito">Favorite</string>
+    <string name="item_registro">Registration</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+
+</resources>

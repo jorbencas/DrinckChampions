@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">"DrinkChampions"</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_carrito">Añadir al carrito</string>
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_categorias">Categorías</string>
+    <string name="item_configuracion">Configuración</string>
+    <string name="item_search">Busqueda</string>
+    <string name="item_location">Localización</string>
+    <string name="item_contact">Contact</string>
+    <string name="item_contact1">·Localizacion de las fabricas  nacionales de Cerveza</string>
+    <string name="item_contact2">·Localizacion de las ciudades natales de los pilotos espanyoles</string>
+    <string name="item_sqllite">SQLlite</string>
+    <string name="menu_lang">Idioma</string>
+    <string name="titulo_actividad_contact">Contact</string>
+    <string name="titulo_comidas_populares">Lo más pedido</string>
+    <string name="titulo_tab_platillos">NACIONALES</string>
+    <string name="titulo_tab_bebidas">TOSTADAS</string>
+    <string name="titulo_tab_postres">UNIVERSALES</string>
+
+    <string name="hello">Hello World, TareasSQLiteActivity!</string>
+    <string name="menu_insert">Agregar tarea</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="todo_summary">Nombre</string>
+    <string name="todo_description">Borrar</string>
+    <string name="todo_edit_summary">Nombre</string>
+    <string name="todo_edit_description">Descripción</string>
+    <string name="todo_edit_confirm">Aceptar</string>
+    <string name="no_todos">Aún no existen elementos en la lista.</string>
+    <string name="social_networks">Redes sociales</string>
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">PROMOCIONES</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+    <string name="label_twitter">Twitter Authentication</string>
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+
+    <string name="etiqueta_carrito">Carrito</string>
+
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_contrasena">Contraseña</string>
+    <string name="etiqueta_info_usuario">Información del usuario</string>
+    <string name="main.message.addelement">Agregar un elemento nuevo</string>
+    <string name="item_firebase">Firebase</string>
+    <string name="item_favorito">Favorito</string>
+    <string name="item_registro">Registro</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_title_text">Facebook Login</string>
+
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter</string>
+
+    <string name="label_facebook_login">Firebase + Facebook Login</string>
+    <string name="desc_facebook_login">Use a Facebook Login credential to authenticate with Firebase.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="Menu">Menu Principal</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="main.menu.action.logout">Cerrar sesión</string>
+    <string name="Twitter">Twitter</string>
+    <string name="twitter">Login Twitter</string>
+</resources>

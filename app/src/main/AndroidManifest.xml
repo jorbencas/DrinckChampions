@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.herprogramacion.restaurantericoparico" >
+    <uses-permission android:name="android.permission.INTERNET" />
+<!--
+        The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+        Google Maps Android API v2, but you must specify either coarse or fine
+        location permissions for the 'MyLocation' functionality.
+   -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- EXTERNAL_STORAGE permissions are optional for Android 6.0 onwards. -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="22" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.RicoPaRico" >
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyC1-l3x-GmKKksQHYkjFMsnF-2lG0_z6eo" />
+        <activity
+            android:name=".ui.ActividadPrincipal"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ConNavigationDrawer">
+
+        </activity>
+        <activity
+            android:name=".ui.ActividadConfiguracion"
+            android:label="@string/titulo_actividad_configuracion"
+            android:parentActivityName=".ui.ActividadPrincipal" >
+
+        </activity>
+        <activity
+            android:name=".activities.TareasSQLiteActivity"
+            android:label="@string/item_sqllite"
+            android:parentActivityName=".ui.ActividadPrincipal"
+            android:theme="@style/AppTheme">
+        </activity>
+        <activity
+            android:name=".ui.Details"
+            android:label="@string/item_sqllite"
+            android:parentActivityName=".ui.ActividadPrincipal"
+            android:theme="@style/AppTheme">
+
+        <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.ActividadPrincipal" />
+
+
+        </activity>
+        <activity
+            android:name=".ui.DetailActivity"
+            android:parentActivityName=".ui.ActividadPrincipal">
+
+        </activity>
+        <activity android:name=".activities.BookDetailActivity"
+
+
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme"
+
+
+
+            />
+        <activity android:name=".activities.BookListActivity"
+            android:theme="@style/AppTheme"/>
+
+
+
+        <activity android:name=".activities.SavedRestaurantListActivity">
+        </activity>
+
+
+
+        <activity android:name=".activities.SplashActivity"
+            android:theme="@style/SplashTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.ChooserActivity"
+            android:label="@string/twitter"
+            android:theme="@style/AppTheme"
+            android:icon="@mipmap/ic_launcher">
+        </activity>
+        <activity
+            android:name=".activities.TwitterActivity"
+            android:label="@string/Twitter"
+            android:theme="@style/AppTheme"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="49e77386316e679b5337265dc4e6eb6ed2f3d272" />
+
+        <activity
+            android:name=".activities.LoginActivity">
+        </activity>
+
+
+        <activity
+            android:name=".ui.LiteDemoActivity">
+        </activity>
+
+
+
+
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+        </activity>
+
+
+
+        <activity
+            android:name=".activities.StreetViewActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+        </activity>
+
+
+    <activity android:name=".ui.crudfilebase"/>
+
+
+
+
+
+    </application>
+
+</manifest>
