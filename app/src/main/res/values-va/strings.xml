@@ -17,7 +17,7 @@
     <string name="item_sqllite">SQLlite</string>
     <string name="menu_lang">Idioma</string>
     <string name="titulo_actividad_contact">Contacte</string>
-    <string name="titulo_comidas_populares">El mes demanat</string>
+    <string name="titulo_inicio">El mes demanat</string>
 
     <string name="titulo_tab_platillos">NACIONALS</string>
     <string name="titulo_tab_bebidas">TOSTADES</string>

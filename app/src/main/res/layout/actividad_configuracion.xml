@@ -17,15 +17,4 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1" />
-
-
-    <Spinner
-        android:layout_width="match_parent"
-        android:layout_margin="@dimen/card_margin"
-        android:layout_height="wrap_content"
-        android:id="@+id/year"
-        android:layout_weight="0.03" />
-
-
-
 </LinearLayout>

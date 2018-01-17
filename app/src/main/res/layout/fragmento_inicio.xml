@@ -12,9 +12,24 @@
         android:background="@color/background_header_seccion_inicio"
         android:gravity="center"
         android:padding="8dp"
-        android:text="@string/titulo_comidas_populares"
+        android:text="@string/titulo_inicio"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/color_light" />
+
+    <TextView
+        android:id="@+id/textViewoffline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/titulo_offline"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/color_light"
+        android:visibility="gone"/>
+
+
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/reciclador"

@@ -37,6 +37,12 @@
 
 
         <item
+            android:id="@+id/item_firebase"
+            android:icon="@drawable/fire"
+            android:title="@string/item_firebase" />
+
+
+        <item
             android:id="@+id/item_registro"
             android:icon="@drawable/estrella"
             android:title="@string/item_registro" />
